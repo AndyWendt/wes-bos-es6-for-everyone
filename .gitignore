@@ -4,3 +4,4 @@ haters/
 *.log
 updates/
 dist/
+.idea
